@@ -239,7 +239,7 @@ header .container nav .form i {
 @media (max-width: 768px) {
   .landing::before {
     width: 33px;
-    height: 58px;
+    height: 90px;
     right: 28px;
   }
 }
