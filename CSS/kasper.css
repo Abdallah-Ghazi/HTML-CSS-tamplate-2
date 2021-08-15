@@ -62,7 +62,7 @@ ul {
   .float {
     width: 30px;
     height: 30px;
-    bottom: -716px;
+    bottom: -670px;
     right: 30px;
   }
 }
@@ -239,7 +239,7 @@ header .container nav .form i {
 @media (max-width: 768px) {
   .landing::before {
     width: 33px;
-    height: 90px;
+    height: 102px;
     right: 28px;
   }
 }
